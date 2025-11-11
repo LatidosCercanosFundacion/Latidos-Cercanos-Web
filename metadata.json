@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Latidos Cercanos",
+  "description": "Una aplicación web para ayudar a la comunidad de Iquique, Chile, a encontrar mascotas perdidas y reportar mascotas encontradas, impulsada por IA para sugerir posibles coincidencias.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
